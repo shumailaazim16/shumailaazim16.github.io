@@ -1,0 +1,153 @@
+#home {
+    text-align: center;
+    color: black;
+    text-shadow: 5px 5px 10px white;
+    font-family: 'Maitree', serif;
+    font-size: 80px;
+    margin-top: 90px;
+}
+
+#information {
+    font-size: 60px;
+    margin-top: 60px;
+}
+
+#letter {
+    font-size: 70px;
+    margin-bottom: 30px;
+    color: #595959;
+}
+
+#favorites {
+  font-size: 70px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#city {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+
+.demo-wrap {
+  overflow: hidden;
+  position: relative;
+  height: 100vh;
+  }
+
+.p-4 {
+  font-family: 'Maitree', serif;
+  font-size: 23px;
+}
+
+.demo-bg {
+  opacity: 0.45;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  }
+
+.demo-content {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+#map {
+  width: 100%;
+  height: 100vh;
+}
+
+h1 {
+  font-family: 'Maitree', serif;
+}
+
+table, tr, td {
+  font-family: 'Maitree', serif;
+  font-size: 19px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: white;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+ul {
+  margin-left: 120px;
+  float: none;
+  margin-top: 50px;
+  text-align: left;
+  font-size: 24px;
+  font-family: 'Maitree', serif;
+}
+
+#essay {
+  font-family: 'Maitree', serif;
+  float: none;
+  border-radius: 25px;
+  line-height: 500px;
+  text-align: center;
+  margin-left: 430px;
+  width: 350px;
+  border: 17px solid white;
+  padding: 18px;
+  margin-top: 50px;
+  margin-bottom: 500px;
+  outline-style: solid;
+  outline-color: black;
+  outline-width: thin;
+  color: #8FBC8F;
+  font-size: 24px;
+  background-color: white;
+}
+
+div.gallery {
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 330px;
+  vertical-align: middle;
+  justify-content: center;
+  background-color: white;
+}
+
+.column {
+  margin-left: auto;
+  margin-right: auto;
+}
+ .row {
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+div.gallery img {
+  width: 100%;
+  height: 220px;
+}
+
+div.desc {
+  padding: 20px;
+  text-align: center;
+  font-family: 'Maitree', serif;
+  font-size: 17px;
+}
+
+.parkchester {
+  background-color: #fcfce8;
+}
+
+.vacation {
+  background-color: #c5e8ed;
+}
+
+.map {
+  background-color: #e0fee0;
+}
+ .info {
+  float: none;
+ }
